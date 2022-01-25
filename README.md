@@ -15,8 +15,8 @@ I'm Lucas from Argentina, and I'm a FullStack MERN Web Developer. I like to lear
 <div align="center">
   <a href="https://github.com/lucas-romer">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucas-romer&show_icons=true&theme=algolia"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-romer&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucas-romer&show_icons=true&theme=vue-dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-romer&theme=vue-dark"/>
     
 </div>
 
