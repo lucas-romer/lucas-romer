@@ -41,7 +41,4 @@ I'm Lucas from Argentina, and I'm a FullStack MERN Web Developer. I like to lear
 ![Mac](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
-
 <br />
